@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **building scalable web applications**
+ 🔭 I’m currently working on **web applications and cloud**
  
- 🌱 I’m currently learning **Docker, Kubernetes, GraphQL**
 
- 💬 Ask me about **React, Node.js, MongoDB... or anything [here](https://github.com/Shricastic7/Shricastic7/issues)**
+ 💬 Lets connect and create something, ask me **about anything [here](https://github.com/Shricastic7/Shricastic7/issues)**
 
  ⚡ Fun fact **The first computer virus was created in 1983**
 
@@ -38,7 +37,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,python,typescript,docker,kubernetes,graphql" />
+    <img src="https://skillicons.dev/icons?i=java,aws,arch,arduino,bash,blender,cpp,gcp,ubuntu " />
+    <br>
 </div>
 
 <br/>
@@ -49,7 +50,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shricastic7/Shricastic7/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -59,9 +60,11 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Shricastic7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <br/>
+    <br/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Shricastic7&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shricastic7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shricastic7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <br/>
 </div>
 

@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+:)+👋;+I+Am+Shrikrushna+:);" />
 </h1>
 
-<h3 align="center">A Passionate Computer Science Engineer </h3>
+<h3 align="center">A Passionate Techie </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **web applications and cloud**
+ 🔭 I’m currently working on **AI Agents, Web3 and Cloud**
  
 
  💬 Lets connect and create something, ask me **about anything [here](https://github.com/shricastic/shricastic/issues)**

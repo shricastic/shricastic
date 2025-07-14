@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+:)+👋;+I+Am+Shrikrushna+:);" />
 </h1>
 
-<h3 align="center">A Passionate Techie </h3>
+<h3 align="center">I’m the monkey in the Infinite Money Theorem. smashing keys, printing value.</h3>
 
 <br/>
 
